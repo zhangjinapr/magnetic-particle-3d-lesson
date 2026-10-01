@@ -1,5 +1,7 @@
 # 粒子穿越分区磁场 · 3D交互课件
 
+[直接打开在线课件](https://zhangjinapr.github.io/magnetic-particle-3d-lesson/) · [GitHub 源码](https://github.com/zhangjinapr/magnetic-particle-3d-lesson)
+
 主文件：`index.html`。双击用 Chrome、Edge 等现代浏览器打开，也可上传 GitHub Pages。原题截图、样式、公式和全部脚本均在这个文件内，无在线依赖。
 
 ## 建议的课堂流程
